@@ -155,6 +155,39 @@ h2 {
   flex-wrap: wrap;
 }
 
+.intro-links {
+  margin-top: 1.5rem;
+}
+
+.entry-date {
+  color: var(--muted);
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+
+.page-title {
+  padding-top: 1rem;
+}
+
+.prose {
+  max-width: 62ch;
+}
+
+.prose p {
+  margin: 0 0 1.25rem;
+}
+
+.prose hr {
+  border: none;
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.prose hr::before {
+  content: "***";
+  color: var(--muted);
+}
+
 footer {
   text-align: center;
   padding: 2rem 1.5rem 3rem;
