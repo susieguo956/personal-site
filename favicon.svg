@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="32" fill="#2b2440"/>
+  <!-- hair back -->
+  <path d="M14 34c0-14 8-23 18-23s18 9 18 23v6H14v-6z" fill="#241b2e"/>
+  <!-- face -->
+  <ellipse cx="32" cy="35" rx="15" ry="16" fill="#ffd9b3"/>
+  <!-- hair front / bangs -->
+  <path d="M17 27c0-10 7-17 15-17s15 7 15 17c-3-3-7-5-15-5s-12 2-15 5z" fill="#241b2e"/>
+  <path d="M15 33c-1-9 3-16 8-19-3 5-4 11-3 18l-5 1z" fill="#241b2e"/>
+  <path d="M49 33c1-9-3-16-8-19 3 5 4 11 3 18l5 1z" fill="#241b2e"/>
+  <!-- glasses -->
+  <rect x="17" y="32" width="13" height="10" rx="4" fill="none" stroke="#2b2440" stroke-width="2.5"/>
+  <rect x="34" y="32" width="13" height="10" rx="4" fill="none" stroke="#2b2440" stroke-width="2.5"/>
+  <line x1="30" y1="36" x2="34" y2="36" stroke="#2b2440" stroke-width="2.5"/>
+  <line x1="17" y1="34" x2="12" y2="33" stroke="#2b2440" stroke-width="2"/>
+  <line x1="47" y1="34" x2="52" y2="33" stroke="#2b2440" stroke-width="2"/>
+  <!-- eyes -->
+  <circle cx="23.5" cy="37" r="1.6" fill="#2b2440"/>
+  <circle cx="40.5" cy="37" r="1.6" fill="#2b2440"/>
+  <!-- blush -->
+  <circle cx="20" cy="43" r="2.5" fill="#ff9e9e" opacity="0.6"/>
+  <circle cx="44" cy="43" r="2.5" fill="#ff9e9e" opacity="0.6"/>
+  <!-- smile -->
+  <path d="M28 45c1.5 2 6.5 2 8 0" fill="none" stroke="#a5643f" stroke-width="1.6" stroke-linecap="round"/>
+</svg>
