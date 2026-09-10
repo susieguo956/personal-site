@@ -172,7 +172,7 @@ h2 {
 .cover-row {
   display: flex;
   gap: 1rem;
-  margin-bottom: 1rem;
+  margin-bottom: 4rem;
   flex-wrap: wrap;
 }
 
